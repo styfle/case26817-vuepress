@@ -1,0 +1,29 @@
+{
+  "name": "kaokei.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaokei/kaokei.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaokei/kaokei.github.io/issues"
+  },
+  "homepage": "https://github.com/kaokei/kaokei.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "dependencies": {
+    "vuepress-bar": "^0.4.2",
+    "vuepress-theme-hope": "^1.18.0"
+  }
+}
