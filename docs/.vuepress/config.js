@@ -43,7 +43,7 @@ module.exports = config({
     logo: "/logo.svg",
     nav: newNav,
     sidebar,
-    hostname: "kaokei.com",
+    hostname: "https://kaokei.com",
     anchorDisplay: false
   }
 });
