@@ -30,3 +30,5 @@ yarn-error.log*
 storybook-static
 
 docs/.vuepress/dist
+
+.vercel
