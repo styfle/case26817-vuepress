@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
@@ -24,6 +23,6 @@
   },
   "dependencies": {
     "vuepress-bar": "^0.4.2",
-    "vuepress-theme-hope": "^1.18.0"
+    "vuepress-theme-hope": "^1.19.0"
   }
 }
